@@ -1,0 +1,16 @@
+.verticalLine {
+    border-left: 3px solid black;
+    height: 700px;
+    /* overflow: scroll;
+    position: relative; */
+    /* margin-left: 35px; */
+}
+.card {
+    position: absolute;
+    margin-top: 100px;
+    z-index: 2;
+}
+.vl {
+    border-left: 3px solid rgb(105, 104, 104);
+    height: 500px;
+  }
